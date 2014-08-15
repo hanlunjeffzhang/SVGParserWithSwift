@@ -12,22 +12,34 @@
 	<dict>
 		<key>341FEAC093914AF819AC6916C166E268375FA5FF</key>
 		<string>https://github.com/hanlunjeffzhang/SwiftSVGParser.git</string>
+		<key>ECB969B21ED694347E4B03235CA37A671CC0AC68</key>
+		<string>https://github.com/hanlunjeffzhang/SVGParserWithSwift.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>SVGParser-Test-II.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>341FEAC093914AF819AC6916C166E268375FA5FF</key>
+		<string>../../../SwiftSVGParser</string>
+		<key>ECB969B21ED694347E4B03235CA37A671CC0AC68</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/hanlunjeffzhang/SwiftSVGParser.git</string>
+	<string>https://github.com/hanlunjeffzhang/SVGParserWithSwift.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>341FEAC093914AF819AC6916C166E268375FA5FF</string>
+	<string>ECB969B21ED694347E4B03235CA37A671CC0AC68</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ECB969B21ED694347E4B03235CA37A671CC0AC68</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SVGParserWithSwift</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
